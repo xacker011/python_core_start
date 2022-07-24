@@ -1,2 +1,2 @@
 # python_core_start
-https://www.google.com/imgres?imgurl=https://www.nandicoaching.com/assets/img/python-training.png&imgrefurl=https://www.nandicoaching.com/corepy.html&tbnid=qWiapKCQsOQiuM&vet=1&docid=7PnCXtB_E4jsUM&w=606&h=300&source=sh/x/im
+![image](https://user-images.githubusercontent.com/109670216/180650068-44d2081b-3875-4055-a394-003495e46659.png)
